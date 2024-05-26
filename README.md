@@ -30,7 +30,6 @@ This repo is a companion repo to the [Define Infrastructure with Terraform Resou
   * allows
     * installing dependencies
     * starting a sample PHP application
-  * 
 * [random_pet](https://registry.terraform.io/providers/hashicorp/random/latest/docs/resources/pet)
   * NO required arguments
 * [aws_instance](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance)
